@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+
+a {
+  text-decoration: none;
+}
+
+.buttom a{
+  transition: 1.5s;
+  border-radius: 3px;
+  color:black;
+  font-family:serif;
+}
+
+.buttom a:hover{
+  background-color:#c1c1c1;
+}
